@@ -32,6 +32,8 @@
 
 # Assignments Made
 
+  - [Non-Disclosure
+    Agreement](https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/tjl-student-nda.docx)
   - [Tidyverse Style Guide Quiz](https://goo.gl/forms/TDZ83cKuWPtOVYzW2)
   - [Topic Choice Quiz](https://goo.gl/forms/nz0w8G2LuZOZbZxi2)
 
