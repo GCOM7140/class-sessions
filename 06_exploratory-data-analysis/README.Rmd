@@ -4,7 +4,7 @@ output: github_document
 
 # Topic
 
-* 
+* Exploratory Data Analysis
 
 # Objectives
 
@@ -12,7 +12,8 @@ output: github_document
 
 # Readings
 
-* 
+* R for Data Science
+   + [Chapter 7][r4ds 7]
 
 # Discussion Questions
 
@@ -25,3 +26,5 @@ output: github_document
 # Assignments Due
 
 * 
+
+[r4ds 7]: https://r4ds.had.co.nz/exploratory-data-analysis.html

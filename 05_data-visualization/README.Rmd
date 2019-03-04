@@ -4,7 +4,7 @@ output: github_document
 
 # Topic
 
-* 
+* Data Visualization
 
 # Objectives
 
@@ -12,7 +12,8 @@ output: github_document
 
 # Readings
 
-* 
+* R for Data Science
+   + [Chapter 3][r4ds 3]
 
 # Discussion Questions
 
@@ -25,3 +26,5 @@ output: github_document
 # Assignments Due
 
 * 
+
+[r4ds 3]: https://r4ds.had.co.nz/data-visualisation.html

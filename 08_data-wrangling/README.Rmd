@@ -4,7 +4,7 @@ output: github_document
 
 # Topic
 
-* 
+* Data Wrangling
 
 # Objectives
 
@@ -12,7 +12,9 @@ output: github_document
 
 # Readings
 
-* 
+* R for Data Science
+   + [Chapter 15][r4ds 15]
+   + [Chapter 16][r4ds 16]
 
 # Discussion Questions
 
@@ -25,3 +27,6 @@ output: github_document
 # Assignments Due
 
 * 
+
+[r4ds 15]: https://r4ds.had.co.nz/factors.html
+[r4ds 16]: https://r4ds.had.co.nz/dates-and-times.html
