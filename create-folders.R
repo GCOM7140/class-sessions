@@ -1,8 +1,8 @@
 library(tidyverse)
 library(here)
 
-# create a vector with the titles for each class lesson in it 
-lesson_titles <- c(
+# create a vector with the titles for each class session in it 
+session_titles <- c(
    "course-overview",
    "group-project-overview",
    "git-and-github",
@@ -19,19 +19,19 @@ lesson_titles <- c(
    "group-project-presentations"
 )
 
-# create a vector of folder names for each class lesson
-lesson_folder_names <- c(1:14) %>% 
+# create a vector of folder names for each class session
+session_folder_names <- c(1:14) %>% 
    str_pad(2, pad = "0") %>% 
    str_c("_") %>% 
-   str_c(lesson_titles)
+   str_c(session_titles)
 
-# create folders for each class lesson
-map(lesson_folder_names, dir.create)
+# create folders for each class session
+map(session_folder_names, dir.create)
 
-# copy the README template and paste it into each class-lesson folder 
+# copy the README template and paste it into each class-session folder 
 file.copy(
-   rep(here("99_template", "README.Rmd"), 13), 
-   here(lesson_folder_names[1:14], "README.Rmd"),
+   rep(here("CLASS-SESSION-README-TEMPLATE.Rmd"), 14), 
+   here(session_folder_names[1:14], "README.Rmd"),
    overwrite = TRUE
 )
 
@@ -42,9 +42,8 @@ subfolder_names <- c(
    "03_slides"
 )
 
-# create these subfolders within each class-lesson folder
+# create these subfolders within each class-session folder
 map(
-   file.path(rep(lesson_folder_names, each = 3), subfolder_names), 
+   file.path(rep(session_folder_names, each = 3), subfolder_names), 
    dir.create
 )
-
