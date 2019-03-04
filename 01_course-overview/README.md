@@ -32,9 +32,9 @@
 
 # Assignments Made
 
-  - None.
+  - [Tidyverse Style Guide Quiz](https://goo.gl/forms/TDZ83cKuWPtOVYzW2)
+  - [Topic Choice Quiz](https://goo.gl/forms/nz0w8G2LuZOZbZxi2)
 
 # Assignments Due
 
-  - [Tidyverse Style Guide Quiz](https://goo.gl/forms/TDZ83cKuWPtOVYzW2)
-  - [Topic Choice Quiz](https://goo.gl/forms/nz0w8G2LuZOZbZxi2)
+  - None.

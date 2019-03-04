@@ -30,12 +30,12 @@ what?
 
 # Assignments Made
 
-- None.
+- [Tidyverse Style Guide Quiz][tidyverse quiz]
+- [Topic Choice Quiz][topic choice quiz]
 
 # Assignments Due
 
-- [Tidyverse Style Guide Quiz][tidyverse quiz]
-- [Topic Choice Quiz][topic choice quiz]
+- None.
 
 [donaldson and walsh]: https://www.sciencedirect.com/science/article/pii/S0191308515000088
 [kohli and jaworski]: https://pdfs.semanticscholar.org/82e7/864936822e1c97d5ebc9996fab705defcfdb.pdf
