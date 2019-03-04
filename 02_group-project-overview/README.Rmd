@@ -4,24 +4,43 @@ output: github_document
 
 # Topic
 
-- 
+* Group Project Overview
 
 # Objectives
 
-- 
+* To establish a clear set of goals, requirements, and performance standards
+(i.e., grading criteria, grading system) for the group project.
 
 # Readings
 
-- 
+* Group Project Overview
+* R for Data Science
+   * [Chapter 1][r4ds-1]
+   * [Chapter 2][r4ds-2]
+* Tidyverse Style Guide
+   * [Welcome][tsg-welcome]
+   * [Chapter 1][tsg-1]
+   * [Chapter 2][tsg-2]
 
 # Discussion Questions
 
-- 
+* 
 
 # Assignments Made
 
-- 
+* 
 
 # Assignments Due
 
-- 
+* [Non-Disclosure Agreement][nda]
+* [Tidyverse Style Guide Quiz][tidyverse quiz]
+* [Topic Choice Quiz][topic choice quiz]
+
+[r4ds-1]: https://r4ds.had.co.nz/introduction.html
+[r4ds-2]: https://r4ds.had.co.nz/explore-intro.html
+[nda]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/tjl-student-nda.docx
+[tidyverse quiz]: https://goo.gl/forms/TDZ83cKuWPtOVYzW2
+[topic choice quiz]: https://goo.gl/forms/nz0w8G2LuZOZbZxi2
+[tsg-1]: https://style.tidyverse.org/files.html
+[tsg-2]: https://style.tidyverse.org/syntax.html
+[tsg-welcome]: https://style.tidyverse.org/
