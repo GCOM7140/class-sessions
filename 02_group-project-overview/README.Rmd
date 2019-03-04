@@ -4,24 +4,24 @@ output: github_document
 
 # Topic
 
-* 
+- 
 
 # Objectives
 
-* 
+- 
 
 # Readings
 
-* 
+- 
 
 # Discussion Questions
 
-* 
+- 
 
 # Assignments Made
 
-* 
+- 
 
 # Assignments Due
 
-* 
+- 
