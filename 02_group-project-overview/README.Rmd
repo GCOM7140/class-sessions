@@ -10,17 +10,20 @@ output: github_document
 
 * To establish a clear set of goals, requirements, and performance standards
 (i.e., grading criteria, grading system) for the group project.
+* To learn how you can home in on a topic that is grand, curiosity-inducing,
+actionable, novel, and broad in scope to give your group project momentum out of
+the starting gate.
 
 # Readings
 
 * Group Project Overview
 * R for Data Science
-   * [Chapter 1][r4ds-1]
-   * [Chapter 2][r4ds-2]
+   + [Chapter 1][r4ds-1]
+   + [Chapter 2][r4ds-2]
 * Tidyverse Style Guide
-   * [Welcome][tsg-welcome]
-   * [Chapter 1][tsg-1]
-   * [Chapter 2][tsg-2]
+   + [Welcome][tsg-welcome]
+   + [Chapter 1][tsg-1]
+   + [Chapter 2][tsg-2]
 
 # Discussion Questions
 
