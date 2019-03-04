@@ -5,10 +5,11 @@
 
 # Objectives
 
-  - To define a set of goals, objectives, requirements, and expectations
-    for this course.
-  - To set the foundation for an environment that respects differences
-    and diverse perspectives and makes all students feel welcome.
+  - To define goals, objectives, requirements, and expectations for this
+    course.
+  - To set the stage for a learning environment that respects
+    differences and diverse perspectives and makes all students feel
+    welcome.
 
 # Readings
 
@@ -23,7 +24,7 @@
     insights to [optimize collective
     value](https://www.sciencedirect.com/science/article/pii/S0191308515000088)?
   - [Sabermetrics](https://www.imdb.com/title/tt1210166/) is to baseball
-    scouts as customer analytics is to…?
+    scouts as customer analytics is to what?
 
 # Assignments Made
 

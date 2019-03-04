@@ -8,10 +8,9 @@ output: github_document
 
 # Objectives
 
-- To define a set of goals, objectives, requirements, and expectations for this
-course.
-- To set the foundation for an environment that respects differences and diverse
-perspectives and makes all students feel welcome.
+- To define goals, objectives, requirements, and expectations for this course.
+- To set the stage for a learning environment that respects differences and
+diverse perspectives and makes all students feel welcome.
 
 # Readings
 
@@ -22,8 +21,8 @@ perspectives and makes all students feel welcome.
 - How can companies [generate, disseminate, and respond][kohli and jaworski] to
 market intelligence with [data-informed][parker] insights to 
 [optimize collective value][donaldson and walsh]?
-- [Sabermetrics][moneyball] is to baseball scouts as customer analytics is
-to...?
+- [Sabermetrics][moneyball] is to baseball scouts as customer analytics is to
+what?
 
 # Assignments Made
 
