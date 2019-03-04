@@ -9,8 +9,12 @@ output: github_document
 # Objectives
 
 - To define goals, objectives, requirements, and expectations for this course.
-- To set the stage for a learning environment that respects differences and
-diverse perspectives and makes all students feel welcome.
+- To outline how this course's assignments (e.g., exercises, papers, reports)
+contribute to achieving this course's goals and objectives.
+- To explain why the instructional methods (e.g., cases, lectures, readings,
+projects) were chosen to serve as this course's subject matter.
+- To establish a learning environment that respects differences and diverse
+perspectives and makes all students feel welcome.
 
 # Readings
 
