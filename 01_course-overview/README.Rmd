@@ -4,24 +4,39 @@ output: github_document
 
 # Topic
 
-- 
+- Course Overview
 
 # Objectives
 
-- 
+- To define a set of goals, objectives, requirements, and expectations for this
+course.
+- To set the foundation for an environment that respects differences and diverse
+perspectives and makes all students feel welcome.
 
 # Readings
 
-- 
+- None.
 
 # Discussion Questions
 
-- 
+- How can companies [generate, disseminate, and respond][kohli and jaworski] to
+market intelligence with [data-informed][parker] insights to 
+[optimize collective value][donaldson and walsh]?
+- [Sabermetrics][moneyball] is to baseball scouts as customer analytics is
+to...?
 
 # Assignments Made
 
-- 
+- None.
 
 # Assignments Due
 
-- 
+- [Tidyverse Style Guide Quiz][tidyverse quiz]
+- [Topic Choice Quiz][topic choice quiz]
+
+[donaldson and walsh]: https://www.sciencedirect.com/science/article/pii/S0191308515000088
+[kohli and jaworski]: https://pdfs.semanticscholar.org/82e7/864936822e1c97d5ebc9996fab705defcfdb.pdf
+[moneyball]: https://www.imdb.com/title/tt1210166/
+[parker]: https://twitter.com/hspter/status/872135582100578304
+[tidyverse quiz]: https://goo.gl/forms/TDZ83cKuWPtOVYzW2
+[topic choice quiz]: https://goo.gl/forms/nz0w8G2LuZOZbZxi2
