@@ -8,12 +8,10 @@
   - To establish a clear set of goals, requirements, and performance
     standards (i.e., grading criteria, grading system) for the group
     project.
+  - To learn how you can home in on a topic that is grand,
+    curiosity-inducing, actionable, novel, and broad in scope to give
+    your group project momentum out of the starting gate.
 
-  - To learn how you can home in on a topic that is grand, novel,
-    curiosity-inducing, broad in scope, and actionable to give your
-    group project momentum out of the starting gate.
-
-  - 
 # Readings
 
   - Group Project Overview
@@ -27,10 +25,16 @@
 
 # Discussion Questions
 
-  - 
+  - What can focusing on topics with impressive anatomies do for your
+    projects and your career as a data scientist?
+
 # Assignments Made
 
-  - 
+  - [GitHub Username Quiz](https://goo.gl/forms/bVkjZJE6yRHZBVRm2)
+  - [Git and GitHub Wiki
+    Survey](https://www.allourideas.org/GCOM-7140-git-github)
+      - Add 1+ questions and vote 10+ times
+
 # Assignments Due
 
   - [Non-Disclosure
