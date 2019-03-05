@@ -14,7 +14,6 @@
 
 # Readings
 
-  - Group Project Overview
   - R for Data Science
       - [Chapter 1](https://r4ds.had.co.nz/introduction.html)
       - [Chapter 2](https://r4ds.had.co.nz/explore-intro.html)
@@ -22,6 +21,10 @@
       - [Welcome](https://style.tidyverse.org/)
       - [Chapter 1](https://style.tidyverse.org/files.html)
       - [Chapter 2](https://style.tidyverse.org/syntax.html)
+  - Colquitt, Jason A. and Gerard George (2011), “[Topic
+    Choice](https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf),”
+    *Academy of Management Journal*, 54, (3), 432–435.
+  - Group Project Overview \[to be covered in class\]
 
 # Discussion Questions
 
