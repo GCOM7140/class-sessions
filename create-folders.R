@@ -30,16 +30,16 @@ map(session_folder_names, dir.create)
 
 # copy the README template and paste it into each class-session folder 
 file.copy(
-   rep(here("CLASS-SESSION-README-TEMPLATE.Rmd"), 14), 
-   here(session_folder_names[1:14], "README.Rmd"),
+   rep(here("class-session-readme-template.md"), 14), 
+   here(session_folder_names[1:14], "README.md"),
    overwrite = TRUE
 )
 
 # create a vector of subfolder names
 subfolder_names <- c(
-   "01_readings",
-   "02_scripts",
-   "03_slides"
+   "readings",
+   "scripts",
+   "slides"
 )
 
 # create these subfolders within each class-session folder

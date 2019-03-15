@@ -1,49 +1,51 @@
-
 # Topic
 
-  - Git and GitHub
+* Git and GitHub
 
 # Objectives
 
-  - To show you how to use Git/GitHub in your life as an R-using data
-    analyst.
-      - For this to happen, we can’t afford to get bogged down in a hot
-        mess of Git installation issues. Work through registering a
-        GitHub account, installing Git, introducing yourself to Git,
-        connecting to GitHub, setting up keys for SSH, connecting
-        Rstudio to Git and GitHub, and so on beforehand by completing
-        the operations outlined in the chapters of Happy Git and GitHub
-        for the UseR listed below.
+* To show you how to use Git/GitHub in your life as an R-using data analyst.
+   + For this to happen, we can’t afford to get bogged down in a hot mess of Git
+   installation issues. Work through registering a GitHub account, installing
+   Git, introducing yourself to Git, connecting to GitHub, setting up keys for
+   SSH, connecting Rstudio to Git and GitHub, and so on beforehand by completing
+   the operations outlined in the chapters of Happy Git and GitHub for the UseR
+   listed below.
 
 # Readings
 
-  - Bryan, Jenny (2017), “[Excuse Me, Do You Have a Moment to Talk about
-    Version Control?](https://peerj.com/preprints/3159/),” *PeerJ
-    Preprints*.
-  - Happy Git and GitHub for the UseR
-      - [Chapters 4-7](https://happygitwithr.com/github-acct.html)
-      - [Chapter 9](https://happygitwithr.com/push-pull-github.html)
-      - [Chapters 11-16](https://happygitwithr.com/ssh-keys.html)
+* Bryan, Jenny (2017), “[Excuse Me, Do You Have a Moment to Talk about Version
+Control?][bryan 2017],” _PeerJ Preprints_.
+* Happy Git and GitHub for the UseR
+   + [Chapters 4-7][happy git 4]
+   + [Chapter 9][happy git 9]
+   + [Chapters 11-16][happy git 11]
 
 # Discussion Questions
 
-  - What factors led you to choose your GitHub username?
-  - Questions of interest based on your responses to the [Git and GitHub
-    Wiki Survey](https://www.allourideas.org/GCOM-7140-git-github).
+* What factors led you to choose your GitHub username?
+* Questions of interest based on your responses to the [Git and GitHub Wiki
+Survey].
 
 # Assignments Made
 
-  - Data Transformation Exercises
-      - [R4DS
-        Exercises](https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises)
-      - [completejourney
-        Exercises](https://github.com/GCOM7140/completejourney-exercises#completejourney-exercises)
-      - [thejuicelaundry
-        Exercises](https://github.com/GCOM7140/thejuicelaundry-exercises)
+* Data Transformation Exercises
+   + [R4DS Exercises]
+   + [completejourney Exercises]
+   + [thejuicelaundry Exercises]
 
 # Assignments Due
 
-  - [GitHub Username Quiz](https://goo.gl/forms/bVkjZJE6yRHZBVRm2)
-  - [Git and GitHub Wiki
-    Survey](https://www.allourideas.org/GCOM-7140-git-github)
-      - Add 1+ questions and vote 10+ times
+* [GitHub Username Quiz]
+* [Git and GitHub Wiki Survey]
+   + Add 1+ questions and vote 10+ times
+
+[bryan 2017]: https://peerj.com/preprints/3159/
+[completejourney exercises]: https://github.com/GCOM7140/completejourney-exercises#completejourney-exercises
+[git and github wiki survey]: https://www.allourideas.org/GCOM-7140-git-github
+[github username quiz]: https://goo.gl/forms/bVkjZJE6yRHZBVRm2
+[happy git 4]: https://happygitwithr.com/github-acct.html
+[happy git 9]: https://happygitwithr.com/push-pull-github.html
+[happy git 11]: https://happygitwithr.com/ssh-keys.html
+[r4ds exercises]: https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises
+[thejuicelaundry exercises]: https://github.com/GCOM7140/thejuicelaundry-exercises
