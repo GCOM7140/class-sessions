@@ -4,13 +4,15 @@
 
 # Objectives
 
-* To show you how to use Git/GitHub in your life as an R-using data analyst.
+* To show you how you can use Git/GitHub in your life as an R-using data
+analyst.
    + For this to happen, we can’t afford to get bogged down in a hot mess of Git
    installation issues. Work through registering a GitHub account, installing
    Git, introducing yourself to Git, connecting to GitHub, setting up keys for
    SSH, connecting Rstudio to Git and GitHub, and so on beforehand by completing
    the operations outlined in the chapters of Happy Git and GitHub for the UseR
    listed below.
+* To show you how you can submit your homework assignments for this class using Git/GitHub.
 
 # Readings
 
@@ -30,9 +32,9 @@ Survey].
 # Assignments Made
 
 * Data Transformation Exercises
-   + [R4DS Exercises]
-   + [completejourney Exercises]
-   + [thejuicelaundry Exercises]
+   + [R4DS exercise set][r4ds exercises]
+   + [completejourney exercise set][completejourney exercises]
+   + [juicelaundry exercise set][juicelaundry exercises]
 
 # Assignments Due
 
@@ -41,11 +43,11 @@ Survey].
    + Add 1+ questions and vote 10+ times
 
 [bryan 2017]: https://peerj.com/preprints/3159/
-[completejourney exercises]: https://github.com/GCOM7140/completejourney-exercises#completejourney-exercises
+[completejourney exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
 [git and github wiki survey]: https://www.allourideas.org/GCOM-7140-git-github
 [github username quiz]: https://goo.gl/forms/bVkjZJE6yRHZBVRm2
 [happy git 4]: https://happygitwithr.com/github-acct.html
 [happy git 9]: https://happygitwithr.com/push-pull-github.html
 [happy git 11]: https://happygitwithr.com/ssh-keys.html
-[r4ds exercises]: https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises
-[thejuicelaundry exercises]: https://github.com/GCOM7140/thejuicelaundry-exercises
+[juicelaundry exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
+[r4ds exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
