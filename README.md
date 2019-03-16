@@ -5,7 +5,7 @@ session of [Customer Analytics][syllabus] (GCOM 7140), a graduate course offered
 to M.S. Commerce students in the [business analytics track][ba track] at the
 University of Virginia's [McIntire School of Commerce][mcintire].
 
-You can this material via the following links:  
+You can access this material via the following links:  
 * [Course Overview][session 1]  
 * [Group Project Overview][session 2]  
 * [Git and Github][session 3]  
