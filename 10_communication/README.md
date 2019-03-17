@@ -28,5 +28,5 @@ Steps][Jolles 2013],” _American Management Association_.
 * Graphics for Communication Assignment
 
 [Allen 2017]: https://www.ft.com/content/df4af260-eece-11e6-930f-061b01e23655
-[]: https://r4ds.had.co.nz/graphics-for-communication.html
+[Chapter 28]: https://r4ds.had.co.nz/graphics-for-communication.html
 [Jolles 2013]: http://www.amanet.org/training/articles/i-object-four-steps-to-handling-objections.aspx
