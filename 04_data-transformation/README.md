@@ -41,6 +41,7 @@ package?
 
 # Assignments Due
 
+* Tidyverse Style Guide Quiz (2 of 2)
 * Data Transformation Exercises
    + [R4DS exercise set][r4ds data tran exercises]
    + [completejourney exercise set][completejourney data tran exercises]
