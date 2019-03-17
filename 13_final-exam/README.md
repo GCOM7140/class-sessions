@@ -2,22 +2,6 @@
 
 * Final Exam Period
 
-# Objectives
-
-* 
-
-# Readings
-
-* 
-
-# Discussion Questions
-
-* 
-
-# Assignments Made
-
-* 
-
 # Assignments Due
 
-* 
+* Final Exam (at 3:15 pm)

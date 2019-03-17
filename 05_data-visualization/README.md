@@ -4,16 +4,18 @@
 
 # Objectives
 
-* 
+* To learn how ggplot2 implements the grammar of graphics to visualize data.
+* To introduce you to the [gtrendsR][] package and show you how you can use it
+to visualize [Google Trends][] data programmatically.
 
 # Readings
 
 * R for Data Science
-   + [Chapter 3][r4ds 3]
+   + [Chapter 3][chapter 3]
 
 # Discussion Questions
 
-* 
+* TBD
 
 # Assignments Made
 
@@ -29,9 +31,11 @@
    + [completejourney exercise set][completejourney data viz exercises]
    + [juicelaundry exercise set][juicelaundry data viz exercises]
 
-[r4ds 3]: https://r4ds.had.co.nz/data-visualisation.html
+[chapter 3]: https://r4ds.had.co.nz/data-visualisation.html
 [completejourney eda exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
 [completejourney data viz exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
+[Google Trends]: https://trends.google.com/
+[gtrendsR]: https://github.com/PMassicotte/gtrendsR#gtrendsr-----
 [juicelaundry eda exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
 [juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
 [r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions

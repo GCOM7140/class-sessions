@@ -4,20 +4,6 @@
 
 # Objectives
 
-* 
+* Review.
 
-# Readings
 
-* 
-
-# Discussion Questions
-
-* 
-
-# Assignments Made
-
-* 
-
-# Assignments Due
-
-* 

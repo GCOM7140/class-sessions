@@ -12,7 +12,8 @@ analyst.
    SSH, connecting Rstudio to Git and GitHub, and so on beforehand by completing
    the operations outlined in the chapters of Happy Git and GitHub for the UseR
    listed below.
-* To show you how you can submit your homework assignments for this class using Git/GitHub.
+* To show you how you can submit your homework assignments for this class using
+Git/GitHub.
 
 # Readings
 

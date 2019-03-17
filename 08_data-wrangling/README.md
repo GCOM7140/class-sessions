@@ -4,25 +4,27 @@
 
 # Objectives
 
-* 
+* To strengthen your ability to work with factors (e.g., customer groups) and
+date-time variables (e.g., timestamps).
 
 # Readings
 
 * R for Data Science
-   + [Chapter 15][r4ds 15]
-   + [Chapter 16][r4ds 16]
+   + [Chapter 15][chapter 15]
+   + [Chapter 16][chapter 16]
 
 # Discussion Questions
 
-* 
+* TBD
 
 # Assignments Made
 
-* 
+* Group Project Reproducibility Checklist
 
 # Assignments Due
 
-* 
+* Google Trends Exercise
+* Mid-Semester Course Evaluation
 
-[r4ds 15]: https://r4ds.had.co.nz/factors.html
-[r4ds 16]: https://r4ds.had.co.nz/dates-and-times.html
+[chapter 15]: https://r4ds.had.co.nz/factors.html
+[chapter 16]: https://r4ds.had.co.nz/dates-and-times.html
