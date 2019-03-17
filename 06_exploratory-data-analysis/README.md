@@ -5,7 +5,7 @@
 # Objectives
 
 * To engage in the iterative process of transforming, visualizing, and modelling
-data in the [juicelaundy][] package to answer questions (and develop better
+data from the [juicelaundy][] package to answer questions (and develop better
 questions) related to the topics you are exploring for your group projects.
 
 # Readings
