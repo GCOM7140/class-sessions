@@ -23,6 +23,8 @@ the starting gate.
 * Colquitt, Jason A. and Gerard George (2011), "[Topic Choice][colquitt and
 george 2011]," _Academy of Management Journal_, 54, (3), 432–435.
 * [Group Project Overview][]
+* Newman, Caroline (2018), "[Seeking a Real-World Case Study, One Commerce
+Professor Turned to the Corner][Newman 2018]", _UVA Today_.
 
 # Discussion Questions
 
@@ -47,6 +49,7 @@ your career as a data scientist?
 [github username quiz]: https://goo.gl/forms/bVkjZJE6yRHZBVRm2
 [r4ds-1]: https://r4ds.had.co.nz/introduction.html
 [r4ds-2]: https://r4ds.had.co.nz/explore-intro.html
+[newman 2018]: http://news.virginia.edu/content/seeking-real-world-case-study-one-commerce-professor-turned-corner
 [non-disclosure agreement]: https://github.com/GCOM7140/class-sessions/raw/master/02_group-project-overview/01_readings/tjl-student-nda.docx
 [tidyverse style guide quiz]: https://goo.gl/forms/TDZ83cKuWPtOVYzW2
 [topic choice quiz]: https://goo.gl/forms/nz0w8G2LuZOZbZxi2

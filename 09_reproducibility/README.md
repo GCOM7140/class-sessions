@@ -29,4 +29,4 @@ presentations, scripts, and repos need to have for them to be reproducible.
 * Group Project Reproducibility Checklist Assignment
 
 [wtf chapter 1]: https://whattheyforgot.org/save-source.html
-[peng 2011]: http://re5qy4sb7x.search.serialssolutions.com/log?L=RE5QY4SB7X&D=RHI&J=SCIEWADC&P=EJP&PT=EZProxy&H=d2d0bb1ec8&U=http%3A%2F%2Fproxy01.its.virginia.edu%2Flogin%3Furl%3Dhttp%3A%2F%2Fwww.sciencemag.org%2Fjournals
+[peng 2011]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/
