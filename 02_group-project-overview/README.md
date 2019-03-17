@@ -22,7 +22,7 @@ the starting gate.
    + [Chapter 2][tsg-2]
 * Colquitt, Jason A. and Gerard George (2011), "[Topic Choice][colquitt and
 george 2011]," _Academy of Management Journal_, 54, (3), 432–435.
-* Group Project Overview [to be covered in class]
+* [Group Project Overview][]
 
 # Discussion Questions
 
@@ -42,6 +42,7 @@ your career as a data scientist?
 * [Topic Choice Quiz]
 
 [colquitt and george 2011]: https://aom.org/uploadedFiles/Publications/AMJ/FTE-TopicChoice.pdf
+[Group Project Overview]: https://github.com/GCOM7140/group-project#the-group-project
 [git and github wiki survey]: https://www.allourideas.org/GCOM-7140-git-github
 [github username quiz]: https://goo.gl/forms/bVkjZJE6yRHZBVRm2
 [r4ds-1]: https://r4ds.had.co.nz/introduction.html

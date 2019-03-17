@@ -4,7 +4,9 @@
 
 # Objectives
 
-* TBD
+* To engage in the iterative process of transforming, visualizing, and modelling
+data in the [juicelaundy][] package to answer questions (and develop better
+questions) related to the topics you are exploring for your group projects.
 
 # Readings
 
@@ -31,9 +33,9 @@
    + [juicelaundry exercise set][juicelaundry eda exercises] 
 
 [chapter 7]: https://r4ds.had.co.nz/exploratory-data-analysis.html
-[completejourney eda exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
-[completejourney data wrang exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-wrangling-exercises.md#data-wrangling-exercises
-[juicelaundry eda exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
-[juicelaundry data wrang exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-wrangling-exercises.md#data-wrangling-exercises
-[r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
-[r4ds data wrang exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-wrangling-exercises.md#data-wrangling-exercises
+[completejourney eda exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
+[completejourney data wrang exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
+[juicelaundry eda exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
+[juicelaundry data wrang exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
+[r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
+[r4ds data wrang exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises

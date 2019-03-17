@@ -45,14 +45,14 @@ package?
 [chapter 5]:https://r4ds.had.co.nz/transform.html
 [completejourney]: https://github.com/bradleyboehmke/completejourney#completejourney
 [completejourney data tran exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
-[completejourney data viz exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
+[completejourney data viz exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [completejourney exercises README]: https://github.com/GCOM7140/completejourney-exercises#completejourney-exercises
 [dplyr]: https://dplyr.tidyverse.org/#cheatsheet
 [juicelaundry]: https://github.com/GCOM7140/juicelaundry#juicelaundry
 [juicelaundry data tran exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
-[juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
+[juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [juicelaundry exercises README]: https://github.com/GCOM7140/juicelaundry-exercises#juicelaundry-exercises
 [r4ds exercises README]: https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises
 [r4ds data tran exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
-[r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
+[r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [The Complete Journey User Guide]: https://github.com/GCOM7140/completejourney-exercises/raw/master/The_Complete_Journey_guide.pdf

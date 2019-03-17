@@ -5,5 +5,3 @@
 # Objectives
 
 * Review.
-
-

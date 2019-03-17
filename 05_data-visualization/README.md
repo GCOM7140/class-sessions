@@ -32,11 +32,11 @@ to visualize [Google Trends][] data programmatically.
    + [juicelaundry exercise set][juicelaundry data viz exercises]
 
 [chapter 3]: https://r4ds.had.co.nz/data-visualisation.html
-[completejourney eda exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
-[completejourney data viz exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
+[completejourney eda exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
+[completejourney data viz exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [Google Trends]: https://trends.google.com/
 [gtrendsR]: https://github.com/PMassicotte/gtrendsR#gtrendsr-----
-[juicelaundry eda exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
-[juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
-[r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/solutions/03-exploratory-data-analysis-solutions.md#exploratory-data-analysis-eda-solutions
-[r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-visualization-exercises.md#data-visualization-exercises
+[juicelaundry eda exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
+[juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
+[r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
+[r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises

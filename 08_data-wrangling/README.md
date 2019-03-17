@@ -19,7 +19,7 @@ date-time variables (e.g., timestamps).
 
 # Assignments Made
 
-* Group Project Reproducibility Checklist
+* Group Project Reproducibility Checklist Assignment
 
 # Assignments Due
 

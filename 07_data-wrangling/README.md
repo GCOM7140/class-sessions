@@ -32,6 +32,6 @@ in their own rows, and values in their own cells.
 
 [chapter 12]: https://r4ds.had.co.nz/tidy-data.html
 [chapter 13]: https://r4ds.had.co.nz/relational-data.html
-[completejourney data wrang exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/01-data-wrangling-exercises.md#data-wrangling-exercises
-[juicelaundry data wrang exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/01-data-wrangling-exercises.md#data-wrangling-exercises
-[r4ds data wrang exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-wrangling-exercises.md#data-wrangling-exercises
+[completejourney data wrang exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
+[juicelaundry data wrang exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
+[r4ds data wrang exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
