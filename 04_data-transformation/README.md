@@ -14,15 +14,11 @@ them in to generate market intelligence.
 
 * R for Data Science
    + [Chapter 5][chapter 5]
-* Tidyverse Style Guide
-   + [Chapter 4][tsg 4]
-* Rudis, Bob (2017), "[Writing Readable Code with Pipes][rudis 2017],"
-_rstudio::conf_.
 * Exercise Set Overviews
    + [R4DS][r4ds exercises README]
    + [completejourney][completejourney exercises README]
    + [juicelaundry][juicelaundry exercises README]
-* [The Complete Journey User Guide][]
+* [The Complete Journey User Guide]
 
 # Discussion Questions
 
@@ -34,6 +30,7 @@ package?
 
 # Assignments Made
 
+* Tidyverse Style Guide Quiz (2 of 2)
 * Data Visualization Exercises
    + [R4DS exercise set][r4ds data viz exercises]
    + [completejourney exercise set][completejourney data viz exercises]
@@ -41,7 +38,6 @@ package?
 
 # Assignments Due
 
-* Tidyverse Style Guide Quiz (2 of 2)
 * Data Transformation Exercises
    + [R4DS exercise set][r4ds data tran exercises]
    + [completejourney exercise set][completejourney data tran exercises]
@@ -60,6 +56,4 @@ package?
 [r4ds exercises README]: https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises
 [r4ds data tran exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
 [r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
-[rudis 2017]: https://www.rstudio.com/resources/videos/writing-readable-code-with-pipes/
 [The Complete Journey User Guide]: https://github.com/GCOM7140/completejourney-exercises/raw/master/The_Complete_Journey_guide.pdf
-[tsg 4]: https://style.tidyverse.org/pipes.html

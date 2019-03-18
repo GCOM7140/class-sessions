@@ -12,6 +12,10 @@ to visualize [Google Trends][] data programmatically.
 
 * R for Data Science
    + [Chapter 3][chapter 3]
+* Tidyverse Style Guide
+   + [Chapter 4][tsg 4]
+* Rudis, Bob (2017), "[Writing Readable Code with Pipes][rudis 2017],"
+_rstudio::conf_.
 
 # Discussion Questions
 
@@ -40,3 +44,5 @@ to visualize [Google Trends][] data programmatically.
 [juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
 [r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
+[rudis 2017]: https://www.rstudio.com/resources/videos/writing-readable-code-with-pipes/
+[tsg 4]: https://style.tidyverse.org/pipes.html
