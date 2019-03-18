@@ -56,4 +56,4 @@ package?
 [r4ds exercises README]: https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises
 [r4ds data tran exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
 [r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
-[The Complete Journey User Guide]: https://github.com/GCOM7140/completejourney-exercises/raw/master/The_Complete_Journey_guide.pdf
+[The Complete Journey User Guide]: https://bradleyboehmke.github.io/completejourney/articles/completejourney.html
