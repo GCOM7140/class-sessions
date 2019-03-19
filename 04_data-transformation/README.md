@@ -27,7 +27,7 @@ in to generate market intelligence.
 * What data (i.e., which datasets, rows, and columns) in the [juicelaundry]
 package are you intending to analyze for the group project?
 * What analyses are you intending to conduct to generate significant,
-interesting, and actionable insights from the data in the [juicelaundry]
+actionable, and interesting insights from the data in the [juicelaundry]
 package?
 
 # Assignments Made
