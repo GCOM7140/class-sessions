@@ -5,7 +5,7 @@
 # Objectives
 
 * To increase your level of fluency with the five core [dplyr] verbs (i.e.,
-filter, arrange, select, mutate, and summarize)
+filter, arrange, select, mutate, and summarize).
 * To begin using this grammar of data manipulation to transform the data in the
 [completejourney] and [juicelaundry] packages into configurations you need them
 in to generate market intelligence.
@@ -21,6 +21,7 @@ in to generate market intelligence.
    + [R4DS][r4ds exercises README]
    + [completejourney][completejourney exercises README]
    + [juicelaundry][juicelaundry exercises README]
+* [The Complete Journey User Guide]
 
 # Discussion Questions
 
