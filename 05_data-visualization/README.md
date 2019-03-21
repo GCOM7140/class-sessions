@@ -30,6 +30,7 @@ _rstudio::conf_.
 
 # Assignments Due
 
+* Tidyverse Style Guide Quiz (2 of 2)
 * Data Visualization Exercises
    + [R4DS exercise set][r4ds data viz exercises]
    + [completejourney exercise set][completejourney data viz exercises]
