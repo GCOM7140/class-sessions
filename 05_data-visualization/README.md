@@ -30,7 +30,7 @@ _rstudio::conf_.
 
 # Assignments Due
 
-* Tidyverse Style Guide Quiz (2 of 2)
+* [Tidyverse Style Guide Quiz (2 of 2)][pipes]
 * Data Visualization Exercises
    + [R4DS exercise set][r4ds data viz exercises]
    + [completejourney exercise set][completejourney data viz exercises]
@@ -43,6 +43,7 @@ _rstudio::conf_.
 [gtrendsR]: https://github.com/PMassicotte/gtrendsR#gtrendsr-----
 [juicelaundry eda exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
 [juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
+[pipes]: https://goo.gl/forms/CkoRY79HDj3zMI9K2
 [r4ds eda exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/03-exploratory-data-analysis-exercises.md#exploratory-data-analysis-eda-exercises
 [r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [rudis 2017]: https://www.rstudio.com/resources/videos/writing-readable-code-with-pipes/

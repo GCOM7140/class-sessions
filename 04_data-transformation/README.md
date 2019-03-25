@@ -33,7 +33,7 @@ package?
 
 # Assignments Made
 
-* Tidyverse Style Guide Quiz (2 of 2)
+* [Tidyverse Style Guide Quiz (2 of 2)][pipes]
 * Data Visualization Exercises
    + [R4DS exercise set][r4ds data viz exercises]
    + [completejourney exercise set][completejourney data viz exercises]
@@ -58,6 +58,7 @@ package?
 [juicelaundry data viz exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
 [juicelaundry exercises README]: https://github.com/GCOM7140/juicelaundry-exercises#juicelaundry-exercises
 [loading the juicelaundry package]: http://www.kaltura.com/index.php/extwidget/preview/partner_id/771032/uiconf_id/33659001/entry_id/0_eos6j0wa/embed/auto?&flashvars%5bstreamerType%5d=auto
+[pipes]: https://goo.gl/forms/CkoRY79HDj3zMI9K2
 [r4ds exercises README]: https://github.com/GCOM7140/r4ds-exercises#r4ds-exercises
 [r4ds data tran exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/01-data-transformation-exercises.md#data-transformation-exercises
 [r4ds data viz exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/02-data-visualization-exercises.md#data-visualization-exercises
