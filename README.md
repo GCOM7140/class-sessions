@@ -6,20 +6,16 @@ to M.S. Commerce students in the [business analytics track][ba track] at the
 University of Virginia's [McIntire School of Commerce][mcintire].
 
 You can access this material via the following links:  
-* [Course Overview][session 1]  
-* [Group Project Overview][session 2]  
-* [Git and Github][session 3]  
-* [Data Transformation][session 4]
-* [Data Visualization][session 5]
-* [Exploratory Data Analysis][session 6]
-* [Data Wrangling][session 7]
-* [Data Wrangling][session 8]
-* [Reproducibility][session 9]
-* [Communication][session 10]
-* [Final Preparations for the Group Project][session 11]
-* [Final Preparations for the Group Project][session 12]
-* [Final Exam][session 13]
-* [Group Project Presentations][session 14]
+
+__Week__ | __Tuesday__ | __Thursday__
+--|-----------|-----------
+1 | [Course Overview][session 1] | [Group Project Overview][session 2]  
+2 | [Git and Github][session 3]  | [Data Transformation][session 4]
+3 | [Data Visualization][session 5] | [Exploratory Data Analysis][session 6]
+4 | [Data Wrangling][session 7] | [Data Wrangling][session 8]
+5 | [Reproducibility][session 9] | [Communication][session 10]
+6 | [Final Preparations for the Group Project][session 11] | [Final Preparations for the Group Project][session 12]
+7 | [Final Exam][session 13] | [Group Project Presentations][session 14]
 
 [ba track]: https://www.commerce.virginia.edu/ms-commerce/business-analytics
 [mcintire]: https://www.commerce.virginia.edu/
