@@ -21,7 +21,9 @@ in their own rows, and values in their own cells.
 # Assignments Made
 
 * Google Trends Exercise
-* Mid-Semester Course Evaluation
+* Mid-Semester Course Evaluation (due on Wednesday at 3:15 pm)
+   + Course Evaluation Survey
+   + Pledge Survey
 
 # Assignments Due
 
