@@ -23,12 +23,13 @@ date-time variables (e.g., timestamps).
 
 # Assignments Due
 
-* Google Trends Exercise
+* [Google Trends Exercise]
 * Midpoint Course Evaluation (due yesterday at 3:15 pm)
    + [Midpoint Course Evaluation Survey]
    + [Pledge Survey]
 
 [chapter 15]: https://r4ds.had.co.nz/factors.html
 [chapter 16]: https://r4ds.had.co.nz/dates-and-times.html
+[google trends exercise]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/04-google-trends-exercise.md#google-trends-exercise
 [midpoint course evaluation survey]: https://forms.gle/N5pHvQ2YZng4xRAm8
 [pledge survey]: https://forms.gle/bFr8KzKeWYUKvwE7A
