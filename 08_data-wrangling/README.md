@@ -24,9 +24,11 @@ date-time variables (e.g., timestamps).
 # Assignments Due
 
 * Google Trends Exercise
-* Mid-Semester Course Evaluation (due yesterday at 3:15 pm)
-   + Course Evaluation Survey
-   + Pledge Survey
+* Midpoint Course Evaluation (due yesterday at 3:15 pm)
+   + [Midpoint Course Evaluation Survey]
+   + [Pledge Survey]
 
 [chapter 15]: https://r4ds.had.co.nz/factors.html
 [chapter 16]: https://r4ds.had.co.nz/dates-and-times.html
+[midpoint course evaluation survey]: https://forms.gle/N5pHvQ2YZng4xRAm8
+[pledge survey]: https://forms.gle/bFr8KzKeWYUKvwE7A

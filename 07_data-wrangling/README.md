@@ -21,9 +21,9 @@ in their own rows, and values in their own cells.
 # Assignments Made
 
 * Google Trends Exercise
-* Mid-Semester Course Evaluation (due on Wednesday at 3:15 pm)
-   + Course Evaluation Survey
-   + Pledge Survey
+* Midpoint Course Evaluation (due on Wednesday at 3:15 pm)
+   + [Midpoint Course Evaluation Survey]
+   + [Pledge Survey]
 
 # Assignments Due
 
@@ -36,4 +36,6 @@ in their own rows, and values in their own cells.
 [chapter 13]: https://r4ds.had.co.nz/relational-data.html
 [completejourney data wrang exercises]: https://github.com/GCOM7140/completejourney-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
 [juicelaundry data wrang exercises]: https://github.com/GCOM7140/juicelaundry-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
+[midpoint course evaluation survey]: https://forms.gle/N5pHvQ2YZng4xRAm8
+[pledge survey]: https://forms.gle/bFr8KzKeWYUKvwE7A
 [r4ds data wrang exercises]: https://github.com/GCOM7140/r4ds-exercises/blob/master/exercises/04-data-wrangling-exercises.md#data-wrangling-exercises
