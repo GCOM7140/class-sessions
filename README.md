@@ -13,8 +13,8 @@ __Week__ | __Tuesday__ | __Thursday__
 2 | [Git and Github][session 3]  | [Data Transformation][session 4]
 3 | [Data Visualization][session 5] | [Exploratory Data Analysis][session 6]
 4 | [Data Wrangling][session 7] | [Data Wrangling][session 8]
-5 | [Communication][session 9] | [Final Preparations for the Group Project][session 10]
-6 | [Reproducibility][session 11] | [Final Preparations for the Group Project][session 12]
+5 | [Communication][session 9] | [Group Project Prep][session 10]
+6 | [Reproducibility][session 11] | [Group Project Prep][session 12]
 7 | [Final Exam][session 13] | [Group Project Presentations][session 14]
 
 [ba track]: https://www.commerce.virginia.edu/ms-commerce/business-analytics
@@ -28,9 +28,9 @@ __Week__ | __Tuesday__ | __Thursday__
 [session 7]: https://github.com/GCOM7140/class-sessions/tree/master/07_data-wrangling#topic
 [session 8]: https://github.com/GCOM7140/class-sessions/tree/master/08_data-wrangling#topic
 [session 9]: https://github.com/GCOM7140/class-sessions/tree/master/09_communication#topic
-[session 10]: https://github.com/GCOM7140/class-sessions/tree/master/10_final-preparations-for-the-group-project#topic
+[session 10]: https://github.com/GCOM7140/class-sessions/tree/master/10_group-project-prep#topic
 [session 11]: https://github.com/GCOM7140/class-sessions/tree/master/11_reproducibility#topic
-[session 12]: https://github.com/GCOM7140/class-sessions/tree/master/12_final-preparations-for-the-group-project#topic
+[session 12]: https://github.com/GCOM7140/class-sessions/tree/master/12_group-project-prep#topic
 [session 13]: https://github.com/GCOM7140/class-sessions/tree/master/13_final-exam#topic
 [session 14]: https://github.com/GCOM7140/class-sessions/tree/master/14_group-project-presentations#topic
 [syllabus]: https://docs.google.com/document/d/1Q2FtO-e4Q9uCBr8syPcv5pvRp1Zz5z_npjOyWOpTbpo/edit?usp=sharing

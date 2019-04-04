@@ -19,7 +19,7 @@ presentations, scripts, and repos need to have for them to be reproducible.
 
 * What distinguishes reproducibility from replicability?
 * Why should you think of your R processes as livestock, not pets?
-
+<!---
 # Assignments Made
 
 * Graphics for Communication Assignment
@@ -27,6 +27,6 @@ presentations, scripts, and repos need to have for them to be reproducible.
 # Assignments Due
 
 * Group Project Reproducibility Checklist Assignment
-
+--->
 [wtf chapter 1]: https://whattheyforgot.org/save-source.html
 [peng 2011]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383002/
