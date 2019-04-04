@@ -8,7 +8,7 @@ University of Virginia's [McIntire School of Commerce][mcintire].
 You can access this material via the following links:  
 
 __Week__ | __Tuesday__ | __Thursday__
---|-----------|-----------
+--|--------------|-----------
 1 | [Course Overview][session 1] | [Group Project Overview][session 2]  
 2 | [Git and Github][session 3]  | [Data Transformation][session 4]
 3 | [Data Visualization][session 5] | [Exploratory Data Analysis][session 6]
