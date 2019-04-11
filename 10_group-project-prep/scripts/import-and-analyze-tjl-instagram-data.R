@@ -1,4 +1,5 @@
 library(tidyverse)
+library(readxl)
 library(googledrive)
 library(lubridate)
 library(here)
@@ -9,7 +10,6 @@ options(warnPartialMatchArgs = FALSE)
 dir.create(here("10_group-project-prep", "data"), showWarnings = FALSE)
 dir.create(here("10_group-project-prep", "outputs"), showWarnings = FALSE)
 dir.create(here("10_group-project-prep", "outputs", today()), showWarnings = FALSE)
-
 
 # import the data, read it into R, and wrangle it -------------------------
 # get the data from google drive and save it within the folder created
@@ -48,14 +48,14 @@ tjl_instagram %>%
   ) %>% 
   select(timestamp, rolling_post_count, time_span)
 
-# create tibbles to annotate with
+# create tibbles for annotation purposes
 one_to_500 <- 
   tibble(
     timestamp = mean(
       c(as.POSIXct("2013-04-17"), as.POSIXct("2017-04-03"))
     ),
     rolling_post_count = 550,
-    label = "Your added your first 500 posts over the course of 4 years..."
+    label = "You added your first 500 posts over the course of 4 years..."
   )
 
 five_to_1000 <- 
@@ -143,6 +143,8 @@ ggsave(
   units    = "in"
 )  
 
+# plot the popularity of tjl's instagram posts over time ------------------
+
 tjl_instagram %>% 
   ggplot(aes(x = timestamp, y = like_count)) +
   geom_smooth() +
@@ -151,12 +153,8 @@ tjl_instagram %>%
     date_breaks = "1 year",
     date_labels = "%b %e, %Y"
   ) +
-  theme(
-    axis.title = element_text(size = 18, family = "Serif"),
-    plot.title = element_text(size = 24)
-  ) +
   labs(
-    title = "The Juice Laundry's Instagram Posts Were Increasing in Popularity Until Recently",
+    title = "Your Instagram posts were increasing in popularity until recently",
     x = "Date",
     y = "Average Number of Likes"
   )
